@@ -1,0 +1,13 @@
+
+A class is a user defined prototype/function declaration from which objects are created
+
+Classes can Include:
+1) Modifiers -> Classes can be public, private, protected
+2) Class Name -> Name of the Class
+3) Super Class -> NAme of the class's parents
+4) Interfaces -> List of Interfaces implemented by the class
+5) Body -> the body of a class
+
+Declaring the object created only a reference but does not dynamically allocate memeory for the object
+
+
