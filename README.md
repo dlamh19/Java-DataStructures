@@ -13,11 +13,11 @@ The following programs cover the basics of Java, from print('Hello World') to Da
 - [x] [Control Flow](https://github.com/dlamh19/Java-DataStructures/blob/master/Control%20Flow%20(If%20Else-Switch)/controlFlow.java)
 - [x] [For Loops](https://github.com/dlamh19/Java-DataStructures/blob/master/For%20Loops/forLoops.java)
 - [x] [While Loops](https://github.com/dlamh19/Java-DataStructures/tree/master/While%20Loops)
-- [ ] Classes/OOP
+- [x] [Classes/OOP](https://github.com/dlamh19/Java-DataStructures/tree/master/ClassesJava)
 - [x] [Strings](https://github.com/dlamh19/Java-DataStructures/tree/master/Strings)
 
 ## Data Structures and Algorithms
-- [ ] Stacks
+- [x] [Stacks](https://github.com/dlamh19/Java-DataStructures/tree/master/Stacks)
 - [ ] Queues
 - [ ] LinkedList
 - [ ] Binary Tree
